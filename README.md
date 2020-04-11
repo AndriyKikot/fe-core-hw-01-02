@@ -1,2 +1,2 @@
 # goit-fe-course
-homework
+homework-01-02
